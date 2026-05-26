@@ -1,7 +1,3 @@
-Based on your project documentation and code, here's a README that is recruiter-focused and highlights the AI/LLM engineering work rather than just the dashboard.
-
----
-
 # Voice of Customer AI Intelligence Platform
 
 ### Transforming Community Discussions into Actionable Product Intelligence using Local LLMs
@@ -453,9 +449,3 @@ streamlit run dashboard/app.py
 ## Author
 
 **Yashodhar Hajare**
-
-Aspiring Data Analyst / AI Engineer focused on building practical AI-powered analytics systems, LLM applications, and customer intelligence platforms.
-
----
-
-Once you add dashboard screenshots and your Streamlit URL at the top, this will look substantially more professional to recruiters than a typical student project README.
