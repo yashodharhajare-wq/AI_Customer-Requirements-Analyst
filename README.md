@@ -1,10 +1,12 @@
 # AI Customer Requirements Analyst - voice-of-customer
 
-### Transforming reddit Community Discussions into Actionable Product Intelligence using Local LLM model
+### Transforming Community Discussions into Actionable Product Intelligence using Local LLM model
 
 🚀 **Live Demo:** https://voice-of-customer-ai-agent.streamlit.app/
 
 📂 **GitHub Repository:** https://github.com/yashodharhajare-wq/voice-of-customer-ai-agent
+
+<img width="1916" height="1019" alt="image" src="https://github.com/user-attachments/assets/9bd51970-6061-4652-b213-ca3fce7b2d61" />
 
 ---
 
@@ -16,11 +18,11 @@ The system processes thousands of discussions, identifies conversations containi
 
 The project demonstrates:
 
+* Product Analytics
 * LLM Engineering
 * Prompt Engineering
 * Data Processing Pipelines
 * NLP-based Insight Extraction
-* Product Analytics
 * Dashboard Development
 * Local AI Deployment using Ollama
 
@@ -30,7 +32,7 @@ The project demonstrates:
 
 Online communities contain valuable customer feedback, but extracting meaningful insights manually is time-consuming and difficult.
 
-Product teams need answers to questions such as:
+Product management teams need answers to questions such as:
 
 * What problems are users experiencing?
 * What features do customers want?
@@ -46,7 +48,7 @@ This project automates the process of converting community discussions into stru
 
 ### Source
 
-Mechanical Keyboards Reddit Community
+Mechanical Keyboards Reddit Community (can be automated through api's)
 
 ### Dataset Size
 
