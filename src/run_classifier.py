@@ -25,7 +25,7 @@ results = []
 # PROCESS DISCUSSIONS
 # --------------------------------------------------
 
-for idx, sample in grouped.head(25).iterrows():
+for idx, sample in grouped.iterrows():
 
     print(f"Processing {idx + 1}/{len(grouped)}")
 
